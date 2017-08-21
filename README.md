@@ -17,13 +17,6 @@ The book introduces the core libraries essential for working with data in Python
 ### 1. IPython a.k.a Jupyter Notebook
 
 - [1.0 Beyond Normal Python](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/01.00-IPython-Beyond-Normal-Python.ipynb)
-- [1.1 Help and Documentation](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/01.01-Help-And-Documentation.ipynb)
-- [1.2 Shell Keyboard Shortcuts](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/01.02-Shell-Keyboard-Shortcuts.ipynb)
-- [1.3 Magic Commands](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/01.03-Magic-Commands.ipynb)
-- [1.4 In-Out History](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/01.04-Input-Output-History.ipynb)
-- [1.5 Shell Commands](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/01.05-IPython-And-Shell-Commands.ipynb)
-- [1.6 Errors and Debugging](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/01.06-Errors-and-Debugging.ipynb)
-- [1.7 Timing and Profiling](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/01.07-Timing-and-Profiling.ipynb)
 
 ### 2. Numpy
 
@@ -40,6 +33,7 @@ The book introduces the core libraries essential for working with data in Python
 
 ### 3. Pandas
 
+### 4. Matplotlib
 
 ## Required Packages
 
