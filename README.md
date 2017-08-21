@@ -8,11 +8,7 @@ You can read the book in its entirety online at https://jakevdp.github.io/Python
 
 The book was written and tested with Python 3.5, though older Python versions (including Python 2.7) should work in nearly all cases.
 
-The book introduces the core libraries essential for working with data in Python: particularly [IPython](http://ipython.org), [NumPy](http://numpy.org), [Pandas](http://pandas.pydata.org), [Matplotlib](http://matplotlib.org), [Scikit-Learn](http://scikit-learn.org), and related packages.
-Familiarity with Python as a language is assumed; if you need a quick introduction to the language itself, see the free companion project,
-[A Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython): it's a fast-paced introduction to the Python language aimed at researchers and scientists.
-
-See [Index.ipynb](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb) for an index of the notebooks available to accompany the text.
+The book introduces the core libraries essential for working with data in Python: particularly [IPython](http://ipython.org), [NumPy](http://numpy.org), [Pandas](http://pandas.pydata.org), [Matplotlib](http://matplotlib.org), and related packages.
 
 ## Contents
 
@@ -30,6 +26,19 @@ See [Index.ipynb](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHa
 - [1.7 Timing and Profiling](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/01.07-Timing-and-Profiling.ipynb)
 
 ### 2. Numpy
+
+- [2.0 Numpy](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/02.00-Introduction-to-NumPy.ipynb)
+- [2.1 Data Types](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/02.01-Understanding-Data-Types.ipynb)
+- [2.2 Numpy Arrays](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/02.02-The-Basics-Of-NumPy-Arrays.ipynb)
+- [2.3 Universal Functions](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/02.03-Computation-on-arrays-ufuncs.ipynb)
+- [2.4 Aggregations](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/02.04-Computation-on-arrays-aggregates.ipynb)
+- [2.5 Broadcasting](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/02.05-Computation-on-arrays-broadcasting.ipynb)
+- [2.6 Boolean Arrays and Masks](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/02.06-Boolean-Arrays-and-Masks.ipynb)
+- [2.7 Indexing](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/02.07-Fancy-Indexing.ipynb)
+- [2.8 Sorting](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/02.08-Sorting.ipynb)
+- [2.9 Structured Arrays](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/02.09-Structured-Data-NumPy.ipynb)
+
+### 3. Pandas
 
 
 ## Required Packages
