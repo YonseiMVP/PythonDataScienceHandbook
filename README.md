@@ -33,7 +33,37 @@ The book introduces the core libraries essential for working with data in Python
 
 ### 3. Pandas
 
+- [3.0 Pandas](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/03.00-Introduction-to-Pandas.ipynb)
+- [3.1 Pandas Objects](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/03.01-Introducing-Pandas-Objects.ipynb)
+- [3.2 Indexing and Selection](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/03.02-Data-Indexing-and-Selection.ipynb)
+- [3.3 Operations](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/03.03-Operations-in-Pandas.ipynb)
+- [3.4 Missing Values](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/03.04-Missing-Values.ipynb)
+- [3.5 Hierarchical Indexing](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/03.05-Hierarchical-Indexing.ipynb)
+- [3.6 Concat and Append](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/03.06-Concat-And-Append.ipynb)
+- [3.7 Merge and Join](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/03.07-Merge-and-Join.ipynb)
+- [3.8 Aggregation and Grouping](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/03.08-Aggregation-and-Grouping.ipynb)
+- [3.9 Pivot Tables](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/03.09-Pivot-Tables.ipynb)
+- [3.10 Strings](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/03.10-Working-With-Strings.ipynb)
+- [3.11 Time Series](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/03.11-Working-with-Time-Series.ipynb)
+- [3.12 Eval and Query](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/03.12-Performance-Eval-and-Query.ipynb)
+
 ### 4. Matplotlib
+
+- [4.0 Matplotlib](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/04.00-Introduction-To-Matplotlib.ipynb)
+- [4.1 Line Plots](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/04.01-Simple-Line-Plots.ipynb)
+- [4.2 Scatter Plots](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/04.02-Simple-Scatter-Plots.ipynb)
+- [4.3 Errorbars](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/04.03-Errorbars.ipynb)
+- [4.4 Density and Contour Plots](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/04.04-Density-and-Contour-Plots.ipynb)
+- [4.5 Histograms and Binnings](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/04.05-Histograms-and-Binnings.ipynb)
+- [4.6 Legends](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/04.06-Customizing-Legends.ipynb)
+- [4.7 Colorbars](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/04.07-Customizing-Colorbars.ipynb)
+- [4.8 Subplots](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/04.08-Multiple-Subplots.ipynb)
+- [4.9 Text and Annotation](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/04.09-Text-and-Annotation.ipynb)
+- [4.10 Ticks](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/04.10-Customizing-Ticks.ipynb)
+- [4.11 Setting and Stylesheets](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/04.11-Settings-and-Stylesheets.ipynb)
+- [4.12 3D Plotting](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/04.12-Three-Dimensional-Plotting.ipynb)
+- [4.13 Geographic Data with Basemap](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/04.13-Geographic-Data-With-Basemap.ipynb)
+- [4.14 Visualization with Seaborn](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/04.14-Visualization-With-Seaborn.ipynb)
 
 ## Required Packages
 
