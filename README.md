@@ -14,11 +14,11 @@ The book introduces the core libraries essential for working with data in Python
 
 - [0.0 Preface](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/00.00-Preface.ipynb)
 
-### 1. IPython a.k.a Jupyter Notebook
+### Chapter 1. IPython a.k.a Jupyter Notebook
 
 - [1.0 Beyond Normal Python](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/01.00-IPython-Beyond-Normal-Python.ipynb)
 
-### 2. Numpy
+### Chapter 2. Numpy
 
 - [2.0 Numpy](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/02.00-Introduction-to-NumPy.ipynb)
 - [2.1 Data Types](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/02.01-Understanding-Data-Types.ipynb)
@@ -31,7 +31,7 @@ The book introduces the core libraries essential for working with data in Python
 - [2.8 Sorting](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/02.08-Sorting.ipynb)
 - [2.9 Structured Arrays](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/02.09-Structured-Data-NumPy.ipynb)
 
-### 3. Pandas
+### Chapter 3. Pandas
 
 - [3.0 Pandas](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/03.00-Introduction-to-Pandas.ipynb)
 - [3.1 Pandas Objects](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/03.01-Introducing-Pandas-Objects.ipynb)
@@ -47,7 +47,7 @@ The book introduces the core libraries essential for working with data in Python
 - [3.11 Time Series](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/03.11-Working-with-Time-Series.ipynb)
 - [3.12 Eval and Query](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/03.12-Performance-Eval-and-Query.ipynb)
 
-### 4. Matplotlib
+### Chapter 4. Matplotlib
 
 - [4.0 Matplotlib](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/04.00-Introduction-To-Matplotlib.ipynb)
 - [4.1 Line Plots](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/04.01-Simple-Line-Plots.ipynb)
@@ -64,6 +64,28 @@ The book introduces the core libraries essential for working with data in Python
 - [4.12 3D Plotting](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/04.12-Three-Dimensional-Plotting.ipynb)
 - [4.13 Geographic Data with Basemap](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/04.13-Geographic-Data-With-Basemap.ipynb)
 - [4.14 Visualization with Seaborn](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/04.14-Visualization-With-Seaborn.ipynb)
+
+### Chapter 5. Scikit-Learn for Machine Learning (Optional)
+
+- [5.0 Machine Learning](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/05.00-Machine-Learning.ipynb)
+- [5.1 What is Machine Learning](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/05.01-What-Is-Machine-Learning.ipynb)
+- [5.2 Scikit-Learn](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/05.02-Introducing-Scikit-Learn.ipynb)
+- [5.3 Hyperparameters and Validation](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/05.03-Hyperparameters-and-Model-Validation.ipynb)
+- [5.4 Feature Engineering](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/05.04-Feature-Engineering.ipynb)
+- [5.5 Naive Bayes](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/05.05-Naive-Bayes.ipynb)
+- [5.6 Linear Regression](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/05.06-Linear-Regression.ipynb)
+- [5.7 Support Vector Machines](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/05.07-Support-Vector-Machines.ipynb)
+- [5.8 Random Forests](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/05.08-Random-Forests.ipynb)
+- [5.9 Priciple Component Analysis](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/05.09-Principal-Component-Analysis.ipynb)
+- [5.10 Manifold Learning](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/05.10-Manifold-Learning.ipynb)
+- [5.11 K-means](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/05.11-K-Means.ipynb)
+- [5.12 Gaussian Mixtures](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/05.12-Gaussian-Mixtures.ipynb)
+- [5.13 Kernel Density Estimation](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/05.13-Kernel-Density-Estimation.ipynb)
+- [5.14 Image Features](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/05.14-Image-Features.ipynb)
+
+### Chapter 6. Drawing Figures in Python (Optional)
+
+ - [6. Drawing Figures](https://github.com/YonseiMVP/PythonDataScienceHandbook/blob/master/notebooks/06.00-Figure-Code.ipynb)
 
 ## Required Packages
 
